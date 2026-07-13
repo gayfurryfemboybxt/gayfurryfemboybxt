@@ -30,5 +30,5 @@
 <p align="center">  
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gayfurryfemboybxt" alt="GitHub Streak" /></a>
   <br/><br/>
-  <a href="https://noskid.today"><img src="https://noskid.today/badge/470x200/?repo=gayfurryfemboybxt/repository" alt="NoSkid Verification" /></a>
+  <a href="https://noskid.today"><img src="https://noskid.today/badge/470x200/?repo=awesomekittycat68/repository" alt="NoSkid Verification" /></a>
 </p>
